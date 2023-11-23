@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://newjibs.store">
-    <img src="./assets/title.png" width="400" height="95"  alt="logo">
+    <img src="assets/title.png" width="400" height="95"  alt="logo">
   </a>
 </p>
 
