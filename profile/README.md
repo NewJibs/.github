@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://newjibs.store">
-    <img src="assets/title.png" width="400" height="95"  alt="logo">
+    <img src="https://github.com/NewJibs/.github/blob/main/https://github.com/NewJibs/.github/blob/main/assets/title.png" width="400" height="95"  alt="logo">
   </a>
 </p>
 
@@ -75,23 +75,22 @@
 ## 🏠 Service Layout
 
 ### 메인 페이지
-
-<img src="assets/service/main.png" width="700" alt="main">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/main.png" width="700" alt="main">
 
 ### 회원가입 / 로그인
-<img src="assets/service/sign-up.png" width="400" alt="sign-up"> <img src="assets/service/login.png" width="400" alt="login">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/service/sign-up.png" width="400" alt="sign-up"> <img src="https://github.com/NewJibs/.github/blob/main/assets/service/login.png" width="400" alt="login">
 
 ### 지도
-<img src="assets/service/map.png" width="400" alt="map"> <img src="assets/service/map-select.png" width="400" alt="map-select">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/service/map.png" width="400" alt="map"> <img src="https://github.com/NewJibs/.github/blob/main/assets/service/map-select.png" width="400" alt="map-select">
 
 ### 결과 / 랭킹
-<img src="assets/service/result.png" width="400" alt="result"> <img src="assets/service/rank.png" width="400" alt="rank">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/service/result.png" width="400" alt="result"> <img src="https://github.com/NewJibs/.github/blob/main/assets/service/rank.png" width="400" alt="rank">
 
 ### 뉴스 / 상세보기
-<img src="assets/service/news.png" width="400" alt="news"> <img src="assets/service/news-content.png" width="400" alt="news-content">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/service/news.png" width="400" alt="news"> <img src="https://github.com/NewJibs/.github/blob/main/assets/service/news-content.png" width="400" alt="news-content">
 
 ### 공지사항 / 상세보기
-<img src="assets/service/notice.png" width="400" alt="notice"> <img src="assets/service/notice-content.png" width="400" alt="notice-content">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/service/notice.png" width="400" alt="notice"> <img src="https://github.com/NewJibs/.github/blob/main/assets/service/notice-content.png" width="400" alt="notice-content">
 
 
 <br>
@@ -129,19 +128,19 @@
 
 ## 🌐 Deploy Structure
 
-<img src="assets/server.png" width="700" alt="배포 구조 이미지">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/server.png" width="700" alt="배포 구조 이미지">
 
 <br>
 
 ## 🏗️ UML
 
-<img src="assets/uml.png" width="700" alt="uml">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/uml.png" width="700" alt="uml">
 
 <br>
 
 ## 💾 ERD
 
-<img src="assets/erd.png" width="700" alt="erd">
+<img src="https://github.com/NewJibs/.github/blob/main/assets/erd.png" width="700" alt="erd">
 
 <br>
 
