@@ -75,7 +75,7 @@
 ## 🏠 Service Layout
 
 ### 메인 페이지
-<img src="https://github.com/NewJibs/.github/blob/main/profile/assets/main.png" width="700" alt="main">
+<img src="https://github.com/NewJibs/.github/blob/main/profile/assets/service/main.png" width="700" alt="main">
 
 ### 회원가입 / 로그인
 <img src="https://github.com/NewJibs/.github/blob/main/profile/assets/service/sign-up.png" width="400" alt="sign-up"> <img src="https://github.com/NewJibs/.github/blob/main/profile/assets/service/login.png" width="400" alt="login">
